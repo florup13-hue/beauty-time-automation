@@ -6,9 +6,9 @@ Sistema automatizado de procesamiento y clasificación de correos de atención a
 
 ## 🔗 Enlaces Obligatorios de Entrega
 
-* **Base de Datos Airtable (Modo Lectura):** [PEGA_AQUÍ_TU_LINK_DE_AIRTABLE]
+* **Base de Datos Airtable (Modo Lectura):** [(https://airtable.com/invite/l?inviteId=invFrE0fj1mv4GABt&inviteToken=50e7e4c8eab1d1ecf737b4841238a86dd01d67fc47d91b6f6a07e653d56cbb0f&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)]
 * **Diagrama de Arquitectura (PDF):** [Descargar PDF](./arquitectura.pdf)
-* **Blueprint del Escenario (Make):** [Descargar JSON](./blueprint.json) *(Renombra el link según el nombre exacto de tu archivo subido)*
+* **Blueprint del Escenario (Make):** [Descargar JSON](./BeautyAgent IA - Flujo Gmail y Airtable.blueprint.json)
 
 ---
 
