@@ -8,7 +8,7 @@ Sistema automatizado de procesamiento y clasificación de correos de atención a
 
 * **Base de Datos Airtable (Modo Lectura):** [(https://airtable.com/invite/l?inviteId=invFrE0fj1mv4GABt&inviteToken=50e7e4c8eab1d1ecf737b4841238a86dd01d67fc47d91b6f6a07e653d56cbb0f&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)]
 * **Diagrama de Arquitectura (PDF):** [Descargar PDF](./arquitectura.pdf)
-* **Blueprint del Escenario (Make):** [Descargar JSON](/BeautyAgent IA - Flujo Gmail y Airtable.blueprint.json)
+* **Blueprint del Escenario (Make):** [[Descargar JSON](/BeautyAgent IA - Flujo Gmail y Airtable.blueprint.json)](https://github.com/florup13-hue/beauty-time-automation/blob/main/BeautyAgent%20IA%20-%20Flujo%20Gmail%20y%20Airtable.blueprint.json)
 
 ---
 
